@@ -2,6 +2,9 @@
 This seems to be an easy Combinatorial problem at first glance and I need to know why people cant solve this still!
 
 
+Check your Overleaf for the formulation...
+
+
 ## References:
 1. Tackling the Minimal Superpermutation Problem: https://arxiv.org/abs/1408.5108
 2. So You Want to Find a New Superpermutation?: https://www.loganseaburg.com/blog/superpermutations
