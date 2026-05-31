@@ -1,0 +1,2 @@
+Callback Solution Count (Gurobi),Current Best Obj. Val.,New Obj. Val.,Run Time (minutes),Solver Work Units,Best Bound,"Current Phase: 0 (in the NoRel heuristic), 1 (in the standard MIP search), or 2 (performing MIP solution improvement)",Explored Node Count
+0,1e+100,0.0,0.0005499998728434245,5.6e-08,-1e+100,1,0.0
